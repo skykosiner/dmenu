@@ -1,4 +1,4 @@
-# Luke's dmenu
+# dmenu (stolen from Luke Smith)
 
 Extra stuff added to vanilla dmenu:
 
